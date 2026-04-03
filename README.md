@@ -12,7 +12,7 @@
 
 #### Ảnh chụp màn hình Admin Panel
 
-![Danh sách sản phẩm trong Admin](screenshots/admin-products.png)
+![Danh sách sản phẩm trong Admin](bagisto4/screenshots/admin-products.png)
 
 
 ---
@@ -31,7 +31,7 @@ query {
 }
 ```
 
-![Query 1 - Categories](screenshots/query1-categories.png)
+![Query 1 - Categories](bagisto4/screenshots/query1-categories.png)
 
 
 ---
@@ -51,7 +51,7 @@ query {
 ```
 
 
-![Query 2 - Products](screenshots/query2-products.png)
+![Query 2 - Products](bagisto4/screenshots/query2-products.png)
 
 
 ---
@@ -71,14 +71,14 @@ query {
 ```
 
 
-![Query 3 - Filtered Products](screenshots/query3-filtered.png)
+![Query 3 - Filtered Products](bagisto4/screenshots/query3-filtered.png)
 
 ---
 
 ### 3. Xây dựng Frontend đơn giản
 
 
-![Frontend - Danh sách sản phẩm](screenshots/frontend-products.png)
+![Frontend - Danh sách sản phẩm](bagisto4/screenshots/frontend-products.png)
 
 
 
