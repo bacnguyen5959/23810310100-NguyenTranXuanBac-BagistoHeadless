@@ -14,7 +14,6 @@
 
 ![Danh sách sản phẩm trong Admin](bagisto4/screenshots/admin-products.png)
 
-
 ---
 
 ### 2. GraphQL API
